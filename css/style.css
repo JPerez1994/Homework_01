@@ -1,0 +1,77 @@
+@font-face {
+  font-family: "Lora";
+  font-weight: 400;
+  font-style: normal;
+  src: local('Lora-regular'),local('Lora-regular'), url('https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+
+@font-face {
+  font-family: "Lora";
+  font-weight: 400;
+  font-style: italic;
+  src: local('Lora-italic'),local('Lora-italic'), url('https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+
+@font-face {
+  font-family: "Lora";
+  font-weight: 700;
+  font-style: bold;
+  src: local('Lora-oblique'),local('Lora-oblique'), url('https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+
+@font-face {
+  font-family: "Lora";
+  font-weight: 700;
+  font-style: italic;
+  src: local('Lora-bold-italic'),local('Lora-bold-italic'), url('https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+
+#login{
+width: 100px;
+height: 85px;
+padding-left: 60%;
+
+}
+
+h1{
+  font-size: 40px;
+  font-family:"Lora";
+  font-style: bold;
+  font-weight: 700;
+}
+
+#one{
+  font-size:20px;
+  font-family: "Lora";
+  font-weight: 400;
+  font-style: normal;
+  }
+
+#two{
+  font-size: 20px;
+  font-family: "Lora";
+  font-weight: 400;
+  font-style: normal;
+}
+
+#three{
+  font-size: 20px;
+  font-family: "Lora";
+  font-weight: 400;
+  font-style: normal;
+}
+
+#me{
+  padding-top: 30px;
+  width: 270px;
+  height: 375px;
+}
+
+#logo{
+  width: 10px;
+  height: 10px;
+}
